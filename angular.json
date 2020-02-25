@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angular-calculator": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-calculator"
+    }
+  },
+  "defaultProject": "angular-calculator",
+  "cli": {
+    "analytics": "6b46dcaa-44e2-4a08-a46b-2f6c9a4022f2"
+  }
 }

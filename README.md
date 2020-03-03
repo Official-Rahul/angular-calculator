@@ -1,6 +1,6 @@
-# React Calculator
+# Angular Calculator
 
-React Calculator is a React application for simple mathematical calculation.
+Angular Calculator is a Angular application for simple mathematical calculation.
 Below are the simple steps for using it on local machine.
 [mathjs](https://mathjs.org/) is used for mathematical calculation.
 This project uses [Angular CLI](https://github.com/angular/angular-cli) for development, run and build.
